@@ -140,5 +140,12 @@ config.ini
 logs/
 temp/
 cache/
+
+# 不开源的文件夹
+src/
+resources/
 screenshots/
+dist/
+build/
+*.spec
 

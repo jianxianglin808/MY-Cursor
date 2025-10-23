@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![MY-Cursor Logo](resources/icon.png)
+<!-- Logo 占位 -->
 
 **专业的 Cursor 账号管理与智能续杯解决方案**
 
@@ -33,29 +33,6 @@
 
 ---
 
-## 🎬 软件演示
-
-<div align="center">
-
-### 💻 账号管理 - 批量操作，一键切换
-
-<img src="screenshots/account-management.png" alt="账号管理演示" width="95%"/>
-
-*支持批量导入导出 • 智能标签分类 • 订阅状态监控 • 一键切换账号*
-
----
-
-### 🤖 自动注册 - 全流程自动化
-
-<img src="screenshots/auto-register.png" alt="自动注册演示" width="95%"/>
-
-*邮箱验证 • 虚拟卡绑定 • 批量并行注册 • 实时日志监控*
-
----
-
-</div>
-
----
 
 ## 🔥 亮点特性
 
@@ -87,10 +64,6 @@
 * ✅ **查看模型详情** - 实时查看模型使用情况与订阅信息
 * ✅ **订阅状态监控** - 自动监控账号订阅状态，及时提醒
 
-<div align="center">
-  <img src="screenshots/account-management.png" alt="账号管理界面" width="900"/>
-  <p><i>📊 账号管理界面 - 批量导入导出、智能标签分类、订阅状态监控、一键切换账号</i></p>
-</div>
 
 ---
 
@@ -104,10 +77,6 @@
 * ✅ **人类行为模拟** - 智能模拟人类操作，通过各种验证
 * ✅ **手机验证支持** - 支持自动处理手机号码验证流程
 
-<div align="center">
-  <img src="screenshots/auto-register.png" alt="自动注册界面" width="900"/>
-  <p><i>🤖 智能自动注册界面 - 邮箱配置、虚拟卡绑定、批量并行注册、实时日志监控</i></p>
-</div>
 
 ---
 
@@ -120,10 +89,6 @@
 * ✅ **云端数据库** - 账号数据自动云端备份，多设备同步
 * ✅ **激活码管理** - 支持激活码验证，保护软件使用权限
 
-<div align="center">
-  <img src="screenshots/settings.png" alt="设置界面" width="900"/>
-  <p><i>⚙️ 智能配置界面 - Cursor路径配置、浏览器设置、代理管理、云端同步</i></p>
-</div>
 
 ---
 
@@ -150,30 +115,9 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="screenshots/account-management.png" alt="账号管理" width="100%"/>
-<p align="center"><b>📊 账号管理界面</b><br/>批量管理 • 一键切换 • 状态监控</p>
-</td>
-<td width="50%">
-<img src="screenshots/auto-register.png" alt="自动注册" width="100%"/>
-<p align="center"><b>🤖 自动注册界面</b><br/>全流程自动化 • 批量并行</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="screenshots/settings.png" alt="设置界面" width="100%"/>
-<p align="center"><b>⚙️ 智能配置界面</b><br/>灵活配置 • 云端同步</p>
-</td>
-<td width="50%">
-<img src="resources/icon.png" alt="软件图标" width="60%"/>
-<p align="center"><b>✨ 现代化设计</b><br/>美观易用 • 专业可靠</p>
-</td>
-</tr>
-</table>
+**💎 专业的界面设计 • 强大的功能体验 • 极致的用户友好**
 
-<p><i>💎 专业的界面设计 • 强大的功能体验 • 极致的用户友好</i></p>
+*软件界面截图请加入 QQ 群 850097941 查看*
 
 </div>
 
@@ -231,43 +175,6 @@
 * 账号数据自动备份到云端数据库
 * 支持多设备登录同一账号，数据实时同步
 * 保护账号数据安全，防止本地数据丢失
-
----
-
-## 🛠️ 技术架构
-
-### 核心技术栈
-
-* **GUI 框架**：PyQt6 - 现代化的跨平台图形界面
-* **自动化**：Selenium - 浏览器自动化操作
-* **网络通信**：aiohttp、requests - 异步高性能网络请求
-* **数据库**：SQLite / 云端数据库 - 账号数据持久化
-* **打包工具**：PyInstaller - 跨平台应用打包
-
-### 项目结构
-
-```
-MY-Cursor/
-├── src/                          # 源代码目录
-│   ├── core/                     # 核心模块
-│   │   ├── config.py            # 配置管理
-│   │   └── version_config.py    # 版本配置
-│   ├── services/                 # 服务模块
-│   │   ├── cursor_service/      # Cursor 管理服务
-│   │   ├── email_service/       # 邮箱服务
-│   │   └── activation_service/  # 激活服务
-│   ├── ui/                       # 用户界面
-│   │   ├── main_window.py       # 主窗口
-│   │   ├── account_list_widget.py  # 账号列表
-│   │   └── auto_register_widget.py # 自动注册
-│   ├── utils/                    # 工具函数
-│   └── cloud/                    # 云端同步
-├── resources/                    # 资源文件
-│   ├── icon.ico                 # 应用图标
-│   └── icon.png
-├── run.py                        # 程序入口
-└── README.md                     # 项目说明
-```
 
 ---
 
