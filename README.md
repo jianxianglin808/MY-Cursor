@@ -1,0 +1,489 @@
+# 🚀 MY-Cursor Manager - 让智能编程更优雅
+
+<div align="center">
+
+![MY-Cursor Logo](resources/icon.png)
+
+**专业的 Cursor 账号管理与智能续杯解决方案**
+
+[![GitHub stars](https://img.shields.io/github/stars/jianxianglin808/MY-Cursor?style=social)](https://github.com/jianxianglin808/MY-Cursor)
+[![GitHub forks](https://img.shields.io/github/forks/jianxianglin808/MY-Cursor?style=social)](https://github.com/jianxianglin808/MY-Cursor)
+[![Release](https://img.shields.io/badge/release-v12.0.5-blue.svg)](https://github.com/jianxianglin808/MY-Cursor/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/jianxianglin808/MY-Cursor)
+[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-850097941-red.svg?style=flat-square&logo=tencentqq)](https://qm.qq.com/cgi-bin/qm/qr?k=xxx)
+
+[🚀 **立即下载**](#-下载安装) | [📖 **使用教程**](#-使用教程) | [💬 **加入QQ群: 850097941**](#-交流群组) | [⭐ **功能特性**](#-核心功能)
+
+---
+
+### 🎉 加入QQ交流群获取激活码
+
+<div align="center">
+
+### **QQ群号：850097941**
+
+**点击加群 → 获取免费激活码 → 立即使用全部功能！**
+
+| 🎁 **免费激活码** | 📖 **使用教程** | 💬 **在线答疑** | 🚀 **版本更新** |
+|:---:|:---:|:---:|:---:|
+
+</div>
+
+</div>
+
+---
+
+## 🎬 软件演示
+
+<div align="center">
+
+### 💻 账号管理 - 批量操作，一键切换
+
+<img src="screenshots/account-management.png" alt="账号管理演示" width="95%"/>
+
+*支持批量导入导出 • 智能标签分类 • 订阅状态监控 • 一键切换账号*
+
+---
+
+### 🤖 自动注册 - 全流程自动化
+
+<img src="screenshots/auto-register.png" alt="自动注册演示" width="95%"/>
+
+*邮箱验证 • 虚拟卡绑定 • 批量并行注册 • 实时日志监控*
+
+---
+
+</div>
+
+---
+
+## 🔥 亮点特性
+
+| 🎯 **核心优势** | 💡 **说明** |
+|:---|:---|
+| 🚀 **一键续杯** | 秒级切换账号，自动重置机器码，轻松保持 Cursor Pro 14天试用不掉 |
+| 🤖 **智能注册** | 全流程自动化，从邮箱验证到账号激活，完全无人值守 |
+| 💳 **自动绑卡** | 支持虚拟信用卡自动绑定，多域名轮换，防封号 |
+| 📊 **账号管理** | 批量导入导出，智能分类标签，账号状态一目了然 |
+| 🌐 **云端同步** | 账号数据云端存储，多设备无缝切换 |
+| 🎨 **现代界面** | PyQt6 构建，美观易用的现代化图形界面 |
+
+### ⚡ 支持的 AI 模型
+
+✅ **Claude 全系列**：Claude 3.5 Sonnet、Claude 3 Opus、Claude 3 Haiku  
+✅ **GPT 全系列**：GPT-4、GPT-4 Turbo、GPT-3.5、即将支持 GPT-5  
+✅ **Gemini 系列**：Gemini Pro、Gemini Ultra  
+
+---
+
+## 🎯 核心功能
+
+### 📊 账号管理中心
+
+* ✅ **批量导入导出** - 支持多种格式的账号数据管理
+* ✅ **智能分类标签** - 灵活的账号分组管理，双击快速操作
+* ✅ **一键激活切换** - 快速切换不同账号，自动重置机器码
+* ✅ **便捷打开主页** - 一键打开 Cursor 主页查看模型、设置限额
+* ✅ **查看模型详情** - 实时查看模型使用情况与订阅信息
+* ✅ **订阅状态监控** - 自动监控账号订阅状态，及时提醒
+
+<div align="center">
+  <img src="screenshots/account-management.png" alt="账号管理界面" width="900"/>
+  <p><i>📊 账号管理界面 - 批量导入导出、智能标签分类、订阅状态监控、一键切换账号</i></p>
+</div>
+
+---
+
+### 🔄 智能续杯 & 自动注册
+
+* ✅ **秒级换号** - 秒级切换账号，自动重置机器码，保持 14 天试用不掉
+* ✅ **全流程自动化** - 从邮箱验证到账号激活，完全无人值守
+* ✅ **批量并行注册** - 支持多实例并行注册，效率提升 10 倍
+* ✅ **多域名轮换** - 随机选择域名，智能防封号策略
+* ✅ **自动绑卡** - 注册完成后自动绑定预设虚拟信用卡
+* ✅ **人类行为模拟** - 智能模拟人类操作，通过各种验证
+* ✅ **手机验证支持** - 支持自动处理手机号码验证流程
+
+<div align="center">
+  <img src="screenshots/auto-register.png" alt="自动注册界面" width="900"/>
+  <p><i>🤖 智能自动注册界面 - 邮箱配置、虚拟卡绑定、批量并行注册、实时日志监控</i></p>
+</div>
+
+---
+
+### ⚙️ 智能配置系统
+
+* ✅ **自定义 Cursor 路径** - 支持自定义 Cursor 安装位置，适配各种安装方式
+* ✅ **自定义浏览器路径** - 支持指定浏览器位置，兼容多种浏览器
+* ✅ **代理管理** - 支持一键禁用系统代理，避免网络冲突
+* ✅ **邮箱配置** - 支持多种邮箱服务商（Gmail、Outlook、Proton 等）
+* ✅ **云端数据库** - 账号数据自动云端备份，多设备同步
+* ✅ **激活码管理** - 支持激活码验证，保护软件使用权限
+
+<div align="center">
+  <img src="screenshots/settings.png" alt="设置界面" width="900"/>
+  <p><i>⚙️ 智能配置界面 - Cursor路径配置、浏览器设置、代理管理、云端同步</i></p>
+</div>
+
+---
+
+## 📦 下载安装
+
+### 📥 最新版本下载
+
+| 平台 | 下载链接 | 说明 |
+|:---|:---|:---|
+| 🪟 **Windows** | [下载 v12.0.5](https://github.com/jianxianglin808/MY-Cursor/releases) | 支持 Windows 10/11，x64 架构 |
+| 🍎 **macOS** | [下载 v12.0.5](https://github.com/jianxianglin808/MY-Cursor/releases) | 支持 Intel 和 Apple Silicon 芯片 |
+| 🐧 **Linux** | [下载 v12.0.5](https://github.com/jianxianglin808/MY-Cursor/releases) | 支持主流 Linux 发行版 |
+
+> 💡 **提示**：下载后请查看 [使用教程](#-使用教程) 了解如何快速上手
+
+### 🌟 系统要求
+
+* **Windows**：Windows 10/11 (x64)
+* **macOS**：macOS 10.15+ (Intel & Apple Silicon)
+* **Linux**：Ubuntu 20.04+、Debian 10+、Fedora 35+ 等主流发行版
+* **Python**：Python 3.8+ (仅源码运行需要)
+
+### 🖥️ 软件界面预览
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<img src="screenshots/account-management.png" alt="账号管理" width="100%"/>
+<p align="center"><b>📊 账号管理界面</b><br/>批量管理 • 一键切换 • 状态监控</p>
+</td>
+<td width="50%">
+<img src="screenshots/auto-register.png" alt="自动注册" width="100%"/>
+<p align="center"><b>🤖 自动注册界面</b><br/>全流程自动化 • 批量并行</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="screenshots/settings.png" alt="设置界面" width="100%"/>
+<p align="center"><b>⚙️ 智能配置界面</b><br/>灵活配置 • 云端同步</p>
+</td>
+<td width="50%">
+<img src="resources/icon.png" alt="软件图标" width="60%"/>
+<p align="center"><b>✨ 现代化设计</b><br/>美观易用 • 专业可靠</p>
+</td>
+</tr>
+</table>
+
+<p><i>💎 专业的界面设计 • 强大的功能体验 • 极致的用户友好</i></p>
+
+</div>
+
+---
+
+## 📖 使用教程
+
+### 🎬 快速开始
+
+1. **下载安装**
+   ```bash
+   # Windows 用户：直接运行 MY-Cursor-v12.0.5.exe
+   # macOS/Linux 用户：解压后运行可执行文件
+   ```
+
+2. **首次激活**
+   - 启动软件后，输入激活码
+   - **激活码获取：加入 QQ 群 850097941**
+   - 激活成功后即可使用全部功能
+
+3. **配置 Cursor 路径**
+   - 进入 `⚙️ 设置` 选项卡
+   - 点击 `选择 Cursor 路径`，选择 Cursor 安装目录
+   - 配置成功后即可进行账号切换
+
+4. **添加账号**
+   - 方式一：手动输入账号邮箱和密码
+   - 方式二：导入账号列表（支持 CSV、TXT 格式）
+   - 方式三：使用自动注册功能批量注册新账号
+
+5. **切换账号**
+   - 在账号列表中选择目标账号
+   - 点击 `🚀 一键切换` 按钮
+   - 软件会自动重置机器码并切换账号
+
+### 🔧 高级功能
+
+#### 🤖 自动注册配置
+
+1. 进入 `🤖 自动注册` 选项卡
+2. 配置邮箱服务（IMAP/SMTP 设置）
+3. 配置虚拟信用卡信息（可选）
+4. 设置注册数量和并发数
+5. 点击 `开始注册` 即可全自动注册账号
+
+#### 📊 账号批量管理
+
+* **批量导入**：支持 CSV、TXT、JSON 格式
+* **批量导出**：一键导出所有账号信息
+* **标签管理**：为账号添加自定义标签，方便分类
+* **状态监控**：实时查看账号订阅状态、试用剩余天数
+
+#### 🌐 云端同步
+
+* 账号数据自动备份到云端数据库
+* 支持多设备登录同一账号，数据实时同步
+* 保护账号数据安全，防止本地数据丢失
+
+---
+
+## 🛠️ 技术架构
+
+### 核心技术栈
+
+* **GUI 框架**：PyQt6 - 现代化的跨平台图形界面
+* **自动化**：Selenium - 浏览器自动化操作
+* **网络通信**：aiohttp、requests - 异步高性能网络请求
+* **数据库**：SQLite / 云端数据库 - 账号数据持久化
+* **打包工具**：PyInstaller - 跨平台应用打包
+
+### 项目结构
+
+```
+MY-Cursor/
+├── src/                          # 源代码目录
+│   ├── core/                     # 核心模块
+│   │   ├── config.py            # 配置管理
+│   │   └── version_config.py    # 版本配置
+│   ├── services/                 # 服务模块
+│   │   ├── cursor_service/      # Cursor 管理服务
+│   │   ├── email_service/       # 邮箱服务
+│   │   └── activation_service/  # 激活服务
+│   ├── ui/                       # 用户界面
+│   │   ├── main_window.py       # 主窗口
+│   │   ├── account_list_widget.py  # 账号列表
+│   │   └── auto_register_widget.py # 自动注册
+│   ├── utils/                    # 工具函数
+│   └── cloud/                    # 云端同步
+├── resources/                    # 资源文件
+│   ├── icon.ico                 # 应用图标
+│   └── icon.png
+├── run.py                        # 程序入口
+└── README.md                     # 项目说明
+```
+
+---
+
+## ❓ 常见问题
+
+<details>
+<summary><b>Q1: 为什么切换账号后 Cursor 还是原来的账号？</b></summary>
+
+**A:** 请确保：
+1. 已正确配置 Cursor 安装路径
+2. 在切换前已完全关闭 Cursor 应用
+3. 切换后重新启动 Cursor
+4. 检查是否有多个 Cursor 进程在运行
+</details>
+
+<details>
+<summary><b>Q2: 自动注册失败，显示"无法连接到邮箱服务器"？</b></summary>
+
+**A:** 请检查：
+1. 邮箱 IMAP/SMTP 设置是否正确
+2. 邮箱是否开启了 IMAP/SMTP 服务
+3. 是否需要使用应用专用密码（如 Gmail）
+4. 网络连接是否正常，代理设置是否正确
+</details>
+
+<details>
+<summary><b>Q3: 激活码在哪里获取？</b></summary>
+
+**A:** 激活码获取方式：
+1. 🎯 **加入官方 QQ 交流群：850097941**（免费获取）
+2. 💰 赞助支持后可获得永久激活码
+3. 👥 群内每日发放免费激活码，先到先得！
+</details>
+
+<details>
+<summary><b>Q4: 支持哪些虚拟信用卡服务？</b></summary>
+
+**A:** 目前支持主流虚拟信用卡服务：
+* Dupay
+* Nobepay
+* Fomepay
+* 其他支持 Visa/Mastercard 的虚拟卡
+
+⚠️ **注意**：一张虚拟信用卡目前只能激活 1 个 Cursor Pro 试用账号
+</details>
+
+<details>
+<summary><b>Q5: 软件是否安全？会不会泄露我的账号信息？</b></summary>
+
+**A:** 
+* ✅ 软件采用本地运行模式，账号信息仅存储在本地或可选的加密云端数据库
+* ✅ 不会上传任何敏感信息到未经授权的第三方服务器
+* ✅ 所有网络请求均用于功能实现，可在日志中查看
+* ✅ 云端同步功能完全可选，可选择仅本地存储
+</details>
+
+---
+
+## 💬 交流群组
+
+### 🎯 加入 QQ 交流群
+
+<div align="center">
+
+## 🔥 QQ群：850097941 🔥
+
+**扫码或搜索群号加入**
+
+<img src="https://via.placeholder.com/300x300/FF6B6B/ffffff?text=QQ%E7%BE%A4%3A850097941" alt="QQ群二维码" width="300"/>
+
+**加群即可获取：**
+- ✅ **免费激活码**（永久使用）
+- ✅ **详细使用教程**（图文+视频）
+- ✅ **在线技术支持**（群内答疑）
+- ✅ **版本更新通知**（第一时间获取）
+- ✅ **虚拟卡资源**（优惠购买渠道）
+
+</div>
+
+### 📞 其他联系方式
+
+| 平台 | 说明 |
+|:---|:---|
+| 💬 **QQ 群** | **850097941**（主要交流平台） |
+| 📱 **微信群** | 添加微信后拉群，备注"MY-Cursor" |
+| 📧 **Email** | 问题反馈和商务合作 |
+
+### 💡 QQ 群福利
+
+* 🎁 **免费激活码**（每日发放，永久使用）
+* 📖 **使用教程**（图文教程 + 视频演示）
+* 💬 **问题解答**（群主和管理员在线答疑）
+* 🚀 **版本更新**（第一时间获取最新版本）
+* 💳 **虚拟卡资源**（优惠购买渠道分享）
+* 👥 **用户交流**（上千用户经验分享）
+
+---
+
+## 💡 反馈建议
+
+### 如何反馈问题
+
+1. 🎯 **加入 QQ 群 850097941** 反馈问题（推荐，响应最快）
+2. 📧 发送邮件描述问题和建议
+3. 📸 提供详细的日志和截图以便快速定位问题
+
+### 功能建议
+
+如果你有好的功能建议，欢迎通过以下方式联系：
+* 💬 在 QQ 交流群（850097941）中提出
+* 📧 发送邮件详细描述你的想法
+* 🎯 我们会认真考虑每一个建议
+
+---
+
+## ☕ 赞助支持
+
+<div align="center">
+
+### 💝 如果这个项目对你有帮助，欢迎赞助支持项目持续发展！
+
+**你的支持是我们持续更新的动力！**
+
+| 微信赞助 | 支付宝赞助 |
+|:---:|:---:|
+| <img src="https://via.placeholder.com/250x250/07C160/ffffff?text=%E5%BE%AE%E4%BF%A1%E8%B5%9E%E5%8A%A9" width="250"/> | <img src="https://via.placeholder.com/250x250/1677FF/ffffff?text=%E6%94%AF%E4%BB%98%E5%AE%9D%E8%B5%9E%E5%8A%A9" width="250"/> |
+| 扫码支持项目发展 | 扫码支持项目发展 |
+
+</div>
+
+
+---
+
+## 📝 更新日志
+
+### v12.0.5 (2025-01-15)
+* ✨ 新增云端账号同步功能
+* 🐛 修复自动注册时的验证码识别问题
+* ⚡ 优化账号切换速度，提升至秒级响应
+* 🎨 优化界面布局，提升用户体验
+* 📊 新增账号使用统计功能
+
+### v12.0.4 (2025-01-08)
+* ✨ 支持手机号码验证功能
+* 🔧 优化人类行为模拟算法
+* 🐛 修复多域名轮换bug
+* 📖 完善使用文档
+
+<details>
+<summary>查看更多历史版本</summary>
+
+### v12.0.3 (2025-01-01)
+* ✨ 新增批量并行注册功能
+* ⚡ 提升注册成功率至 95%+
+* 🎨 界面美化升级
+
+### v12.0.2 (2024-12-25)
+* 🐛 修复 Windows 11 兼容性问题
+* 🔧 优化内存占用
+* 📊 新增实时日志监控
+
+### v12.0.1 (2024-12-20)
+* 🎉 首次公开发布
+* ✨ 实现核心账号管理功能
+* 🤖 实现自动注册功能
+
+</details>
+
+---
+
+## 📄 版权声明
+
+本软件版权归作者所有，保留所有权利。
+
+### 使用许可
+
+* ✅ 个人用户：使用激活码后可永久使用
+* ✅ 商业用途：需联系作者获取商业授权
+* ❌ 未经授权不得反编译、破解或二次分发
+* ❌ 未经授权不得用于违法违规用途
+
+---
+
+## ⚠️ 免责声明
+
+* 本软件仅供学习交流使用，请合理使用
+* 使用本软件产生的一切后果由使用者自行承担
+* 请遵守 Cursor 官方服务条款，合理使用试用功能
+* 建议支持正版，有条件请购买 Cursor Pro 订阅
+* 软件作者不对使用本软件造成的任何损失承担责任
+
+---
+
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jianxianglin808/MY-Cursor&type=Date)](https://star-history.com/#jianxianglin808/MY-Cursor&Date)
+
+---
+
+<div align="center">
+
+### 🚀 让 Cursor，让智能编程更优雅！
+
+**如果觉得项目不错，请点个 ⭐ Star 支持一下！**
+
+---
+
+## 🎉 立即加入 QQ 群：850097941
+
+**获取免费激活码 • 学习使用教程 • 享受技术支持**
+
+---
+
+Made with ❤️ by [jianxianglin808](https://github.com/jianxianglin808)
+
+[⬆ 回到顶部](#-my-cursor-manager---让智能编程更优雅)
+
+</div>
+
